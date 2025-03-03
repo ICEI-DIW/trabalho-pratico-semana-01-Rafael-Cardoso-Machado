@@ -7,7 +7,9 @@ Nome: Rafael Cardoso Machado
 Matricula: 892486
 
 ## Tela de inspeção com navegador
-
+![Network](0701network.png)
 
 ## Tela de projeto no Replit
+![ReplitHelloWorld](0702helloworldreplit.png)
+
 
